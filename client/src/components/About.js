@@ -14,7 +14,7 @@ const About = () => {
               <div className='profile_title'>
                 <h5>Irfan</h5>
                 <h6>Web Developer</h6>
-                <p className='profile_rating'>RANKING : <span>1/10</span></p>
+                <p className='profile_rating'>RANKINGSS : <span>1/10</span></p>
                 <ul className="nav nav-pills" role="tablist">
                   <li className="nav-item">
                     <a className="nav-link active" id='profile_tab' data-bs-toggle="pill" role="tab" href="#">Profile</a>
